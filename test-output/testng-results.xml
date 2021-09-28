@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-26T12:47:59 IST" name="Default suite" finished-at="2021-09-26T12:48:22 IST" duration-ms="23058">
+    <groups>
+    </groups>
+    <test started-at="2021-09-26T12:47:59 IST" name="Default test" finished-at="2021-09-26T12:48:22 IST" duration-ms="23058">
+      <class name="com.maven.AriseFrameWork1.GoogleTC">
+        <test-method signature="TS001()[pri:0, instance:com.maven.AriseFrameWork1.GoogleTC@4e096385]" started-at="2021-09-26T12:47:59 IST" name="TS001" finished-at="2021-09-26T12:48:20 IST" duration-ms="21386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS001 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.maven.AriseFrameWork1.GoogleTC@4e096385]" started-at="2021-09-26T12:48:20 IST" name="close" finished-at="2021-09-26T12:48:22 IST" duration-ms="1604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.maven.AriseFrameWork1.GoogleTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
